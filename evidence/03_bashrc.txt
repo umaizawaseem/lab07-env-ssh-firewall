@@ -1,0 +1,4 @@
+export APP_ENV="staging"
+export API_KEY="secret999"
+export APP_ENV="staging"
+export API_KEY="secret999"
