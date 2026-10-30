@@ -1,0 +1,3 @@
+PATH=/home/umaizawaseem/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+/home/umaizawaseem/bin/welcome
+Hello from umaizawaseem in Cloud Computing class! PATH is working.
